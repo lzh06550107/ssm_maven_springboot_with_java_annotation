@@ -1,0 +1,1 @@
+insert  into `t_user`(`u_id`,`u_name`,`u_password`) values (1,'leeyom','123');
